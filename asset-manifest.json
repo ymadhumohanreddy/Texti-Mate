@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texti-Mate/static/css/main.68ceb9c8.css",
+    "main.js": "/Texti-Mate/static/js/main.dcf2b468.js",
+    "static/js/453.7ff0fa9d.chunk.js": "/Texti-Mate/static/js/453.7ff0fa9d.chunk.js",
+    "index.html": "/Texti-Mate/index.html",
+    "main.68ceb9c8.css.map": "/Texti-Mate/static/css/main.68ceb9c8.css.map",
+    "main.dcf2b468.js.map": "/Texti-Mate/static/js/main.dcf2b468.js.map",
+    "453.7ff0fa9d.chunk.js.map": "/Texti-Mate/static/js/453.7ff0fa9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ceb9c8.css",
+    "static/js/main.dcf2b468.js"
+  ]
+}
