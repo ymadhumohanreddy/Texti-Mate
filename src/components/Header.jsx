@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub } from 'react-icons/fa'; // Import LinkedIn and Gi
 const Header = () => {
   return (
     <div style={{ display: 'flex', alignItems: 'center' }}>
-      <img src="/images/logo2.png" alt="logo" style={{ height: 112 }} />
+      <img src="https://website.cdn.speechify.com/2022_06_Google-Text-To-Speech.png?quality=80&width=1080" alt="logo" style={{ height: 112 }} />
       <h1 style={{ marginLeft: '10px', fontFamily: 'Times New Roman' }} onClick={() => window.location.reload()}>
         TextiMate
       </h1>
